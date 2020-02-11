@@ -6,7 +6,6 @@ using System.IO;
 
 using Android.App;
 using Android.Content;
-using Android.Graphics;
 using Android.OS;
 using Android.Print;
 using PCLPrintExample.Droid;
