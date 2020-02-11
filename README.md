@@ -12,3 +12,5 @@ SkiaSharp makes is easy to do this, see;
 https://github.com/mono/SkiaSharp/blob/master/samples/Gallery/Shared/Samples/CreatePdfSample.cs#L47
 
 Currently, this example continues to pass a bitmap resulting in the error 'cannot print a malformed PDF file'
+
+I hope to update this example to fully support Android and iOS bitmap/PDF printing quite soon
